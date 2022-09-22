@@ -142,3 +142,21 @@ th, td {
     color: orangered;
     background-color: cyan;  
 }
+ul li { display: block;
+width: auto;
+text-align: left;
+}
+
+ul > li.i {
+display: table-cell;
+}
+
+li {
+    float: center;
+  }
+  
+  
+  li a:hover {
+    background-color: pink;
+}
+
