@@ -118,4 +118,27 @@ th, td {
     padding-left: 30px;
     padding-right: 40px;
   }
- 
+  .ALEXIS{
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
+.ALINE{
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
+.LADY.S\. {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
